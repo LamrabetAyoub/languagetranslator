@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">languagetranslator</string>
+    <string-array name="language_options">
+        <item>en|en</item>
+        <item>es|es</item>
+        <item>fr|fr</item>
+        <item>de|de</item>
+        <item>ar|ar</item>
+    </string-array>
+
+
+    <!-- Notes Activity Strings -->
+    <string name="no_notes_message">No notes yet. Tap + to create one!</string>
+    <string name="add_note">Add a new note</string>
+    <string name="no_notes_icon">Empty notes icon</string>
+
+    <!-- Bottom Navigation Strings -->
+    <string name="nav_translate">Translate</string>
+    <string name="nav_notes">Notes</string>
+
+    </resources>
